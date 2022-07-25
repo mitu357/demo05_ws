@@ -1,0 +1,2 @@
+arbotix_ros/arbotix:arbotix_ros/arbotix_controllers:arbotix_ros/arbotix_firmware:arbotix_ros/arbotix_msgs:arbotix_ros/arbotix_python:arbotix_ros/arbotix_sensors:nav_demo:urdf01_rviz:urdf02_gazebo
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/zhuwencheng/demo05_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/zhuwencheng/demo05_ws/install_isolated
